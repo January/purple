@@ -1,0 +1,1 @@
+(prn "Purple is the only real color.")

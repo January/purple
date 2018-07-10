@@ -1,0 +1,1 @@
+IO.puts "Purple is the only real color."
